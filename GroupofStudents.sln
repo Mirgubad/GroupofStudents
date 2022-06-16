@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupofStudents", "GroupofStudents\GroupofStudents.csproj", "{69859162-9C8C-48F1-A9F4-2422DE458AA0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Helpers", "Helpers", "{217EC1EE-00FE-4041-B65E-6F32BF08BF33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69859162-9C8C-48F1-A9F4-2422DE458AA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69859162-9C8C-48F1-A9F4-2422DE458AA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69859162-9C8C-48F1-A9F4-2422DE458AA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69859162-9C8C-48F1-A9F4-2422DE458AA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {049BB325-BC36-455F-B1C2-E77EF858753C}
+	EndGlobalSection
+EndGlobal
